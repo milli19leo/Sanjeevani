@@ -3,17 +3,17 @@ Sanjeevani is an intelligent, web-based healthcare management platform designed 
 
 # Features
 
-○ Disease Prediction:
-Upload CBC reports (PDF or JPG), and the AI-powered engine will analyze key biomarkers and predict potential health risks using automated data extraction and ML models.
+● Disease Prediction:
+  Upload CBC reports (PDF or JPG), and the AI-powered engine will analyze key biomarkers and predict potential health risks using automated data extraction and ML models.
 
-○ Personalized Diet Plans
-Users receive custom meal plans based on age, weight, health conditions, and goals. Meals are structured with appropriate nutrients and daily recommendations.
+● Personalized Diet Plans
+  Users receive custom meal plans based on age, weight, health conditions, and goals. Meals are structured with appropriate nutrients and daily recommendations.
 
-○ Find a Specialist
-Patients can search doctors by location and specialization, helping them quickly connect with the right healthcare professionals.
+● Find a Specialist
+  Patients can search doctors by location and specialization, helping them quickly connect with the right healthcare professionals.
 
-○ Electronic Health Records (EHR)
-Securely store, manage, and access medical reports in a structured, encrypted format to ensure privacy and ease of use.
+● Electronic Health Records (EHR)
+  Securely store, manage, and access medical reports in a structured, encrypted format to ensure privacy and ease of use.
   
 # Tech Stack
 
@@ -32,12 +32,12 @@ Securely store, manage, and access medical reports in a structured, encrypted fo
 
 # Install dependencies
 
-  ○ pip install -r requirements.txt
+  ● pip install -r requirements.txt
 
-  ○ Configure the MySQL database and update credentials .
+  ● Configure the MySQL database and update credentials .
 
-  ○ Run the app
+  ● Run the app
 
-  ○ flask run
+  ● flask run
   
 # UI Interfaces: image
