@@ -1,2 +1,2 @@
-# Sanjeevani
-It is healthcare and management website which is a smart, user-friendly platform that brings essential healthcare features together in one place, helping you take charge of your well-being with ease. Sanjeevani offers 4 modules: EHR module, Find Doctor, Diet Recommendation ,  and Disease Prediction 
+# Sanjeevani: Healthcare Management System
+Sanjeevani is an intelligent, web-based healthcare management platform designed to simplify medical services for patients, healthcare providers, and administrators. It integrates intelligent tools like disease prediction, personalized diet planning, electronic health records (EHR), and doctor search to provide quick, reliable, and user-friendly health assistance.
