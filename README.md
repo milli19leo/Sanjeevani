@@ -3,17 +3,18 @@ Sanjeevani is an intelligent, web-based healthcare management platform designed 
 
 # Features
 
+● Electronic Health Records (EHR):
+  Securely store, manage, and access medical reports in a structured, encrypted format to ensure privacy and ease of use.
+  
 ● Disease Prediction:
   Upload CBC reports (PDF or JPG), and the AI-powered engine will analyze key biomarkers and predict potential health risks using automated data extraction and ML models.
 
-● Personalized Diet Plans
+● Personalized Diet Plans:
   Users receive custom meal plans based on age, weight, health conditions, and goals. Meals are structured with appropriate nutrients and daily recommendations.
 
-● Find a Specialist
+● Find a Specialist:
   Patients can search doctors by location and specialization, helping them quickly connect with the right healthcare professionals.
-
-● Electronic Health Records (EHR)
-  Securely store, manage, and access medical reports in a structured, encrypted format to ensure privacy and ease of use.
+  
   
 # Tech Stack
 
