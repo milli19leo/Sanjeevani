@@ -29,7 +29,7 @@ Sanjeevani is an intelligent, web-based healthcare management platform designed 
 
   1. Clone the repository
 
-    git clone https://github.com/your-repo/sanjeevani.git
+         git clone https://github.com/your-repo/sanjeevani.git
 
   2. Install dependencies
 
