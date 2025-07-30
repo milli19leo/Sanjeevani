@@ -27,19 +27,19 @@ Sanjeevani is an intelligent, web-based healthcare management platform designed 
 
  For academic/demo purposes only.
 
- Clone the repository
+  1. Clone the repository
 
- git clone https://github.com/your-repo/sanjeevani.git
+    git clone https://github.com/your-repo/sanjeevani.git
 
-# Install dependencies
+  2. Install dependencies
 
-  ● pip install -r requirements.txt
+         pip install -r requirements.txt
 
-  ● Configure the MySQL database and update credentials .
+4. Configure the MySQL database and update credentials .
 
-  ● Run the app
+5. Run the app
 
-  ● flask run
+         flask run
   
 # UI Interfaces: image
 
